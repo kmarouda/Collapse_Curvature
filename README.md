@@ -27,6 +27,4 @@ KrContour.jl: Creates a contour plot of the Kretschmann invariant once the Kruns
 
 KallPlots.jl: Creates plots similar to figure 2 of the paper
 
-GKmaxPlot.jl: Creates plots similar to figure 3 of the paper
-
 NOTE: some of the directories in the codes might need to be altered locally
