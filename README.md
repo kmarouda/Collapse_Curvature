@@ -1,8 +1,8 @@
-## Collapse_Curvature
+## Curvature and dynamical spacetimes
 
 arxiv version---> https://arxiv.org/abs/2209.12589
 
-# To produce the pdf of the paper
+# Producing the pdf of the paper
 pdflatex ./TeX/main.tex 
 
 # Mathematica Notebooks
