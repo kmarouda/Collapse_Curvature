@@ -16,3 +16,4 @@ Crevolution.jl: contains all the main functions needed for the evolution.
 CrConvergence.jl: does a convergence test running 3 different resolutions
 CrPlotsConvergence.jl: produces the L-2 norm convergence and pointwise convergence plots
 Kruns.jl: Runs different initial data and computes the Kretschmann invariant throughout the evolution. 
+KrContour.jl: Creates a contour plot of the Kretschmann invariant once the Kruns.jl file has produced the data
