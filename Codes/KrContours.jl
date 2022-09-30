@@ -17,7 +17,7 @@ println("the time step is ", dt)
 include("./Codes/Crevolution.jl");
 include("/Codes/curvatureinv.jl");
 
-dir="./DATA/"
+dir="./DATA/Kretschmann/P_1"
 
 using CSV, DataFrames, LaTeXStrings
 AHloc=Matrix(DataFrame(CSV.File(joinpath(dir,"AHloc.csv"),header=false, delim=",")));

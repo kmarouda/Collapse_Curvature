@@ -36,7 +36,7 @@ println("the time step is ", dt)
 include("./Codes/curvatureinv.jl");
 include("./Codes/Crevolution.jl");
 
-dir = "./DATA"
+dir = "./DATA/Kretschmann"
 
 using ProgressMeter
 

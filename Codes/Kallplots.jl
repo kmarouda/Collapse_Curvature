@@ -10,7 +10,7 @@ using CSV, DataFrames, ProgressMeter
 
 TAH1=0;
 
-dir="./DATA"
+dir="./DATA/Kretschmann"
 
 using LaTeXStrings
 
